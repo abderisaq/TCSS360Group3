@@ -147,7 +147,7 @@ public class MainView() {
 			System.out.println("Your job has been created! Press any button to continue...");
 			char tempInput = scanner.nextChar;
 			showMainMenu();
-		} catch () { // TODO: Job collection person, add business rules in story 2 here
+		} catch () { // TODO: JobCollection person, add business rules in story 2 here
 
 		}
 
